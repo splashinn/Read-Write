@@ -1,5 +1,5 @@
 // readWrite.js
-// (C) 2014 splashinn
+// splashinn
 // read the content of file then want to make few updates to content and then write that content to another file
 
 var filePath = path.join('public/index.html'),
