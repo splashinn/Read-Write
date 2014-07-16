@@ -1,5 +1,5 @@
 // readWrite1.js
-// (c) 2014 splashinn
+// splashinn
 
 
 var path = require('path'),
